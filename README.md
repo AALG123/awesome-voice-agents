@@ -243,7 +243,7 @@ OpenAI Whisper is the most powerful open-source speech recognition model, but do
 | [MiniMax (Hailuo) Speech](https://www.minimax.io/audio) | Speech-02/2.5/2.6 series, 40+ languages, 100+ voices + cloning; topped Speech Arena above OpenAI/ElevenLabs. | MiniMax 海螺，40+ 语种，多榜单第一 |
 | [Rime](https://rime.ai/) | Enterprise TTS for real-time voice agents; Mist v2 ~70-225ms TTFA, Arcana v2 for expressive paralinguistic voices. | 主打实时语音 Agent，极低延迟，发音确定性强 |
 | [PlayAI (PlayHT)](https://play.ai/) | Conversational-AI-focused API; Play 3.0 Mini ~143ms TTFB multilingual streaming, PlayDialog for two-speaker dialogue. | 面向对话 AI，低延迟流式，双人对话 |
-| [Gandr](https://gandr.ai/) | TTS API for voice agents. Word error rate 1.98 percent against a 2.17 percent human reference on the same scorer, one voice in 23 languages, watermark on every render. Python/JS SDKs, LiveKit plugin, MCP server. | 语音 Agent 专向 TTS API，转写准确率优于人类基准，23 种语言，带水印 |
+| [Gandr](https://gandr.ai/) | TTS API for voice agents. Word error rate 1.982 percent against a 2.171 percent human reference on the same scorer, one voice in 23 languages, watermark on every render. Python/JS SDKs, LiveKit plugin, MCP server. | 语音 Agent 专向 TTS API，转写准确率优于人类基准，23 种语言，带水印 |
 
 ---
 
